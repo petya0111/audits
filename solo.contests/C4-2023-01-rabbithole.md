@@ -1,8 +1,6 @@
 [RabbitHole contest](https://code4rena.com/reports/2023-01-rabbithole)
-[H-01]
-
-# Wrong expression for modifiers in two files and potential unprotected methods with wrong check
-
+# [H-01] Unprotected methods due wrong expression in onlyMinter modifiers leads to access control vulnerability 
+https://github.com/code-423n4/2023-01-rabbithole-findings/issues/227 
 ## Impact 
 The modifier `onlyMinter` that is declared in `RabbitHoleReceipt.sol` and `RabbitHoleTickets.sol` files has no impact and has no protection for methods that are used.
 
