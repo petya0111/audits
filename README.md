@@ -8,6 +8,8 @@ Participated in Code4rena and Sherlock contests.
 
 
 ⭐   Awarded on 3rd place in Sherlock judging Ajna contest [tweet](https://twitter.com/paspe0111/status/1626867246587838464) 
+
+
 <img width="400" alt="image" src="https://github.com/petya0111/audits/assets/13080328/1501806f-4a3d-4387-b67f-ccde9a1bb7ab">
 
 ## Team contests  - Crimson Rat REACH 
@@ -16,6 +18,8 @@ Participated in Code4rena and Sherlock contests.
 
 
  ⭐   1st place award on RealWagmi @PopsicleFinance contest 
+
+ 
  <img width="822" alt="image" src="https://github.com/petya0111/audits/assets/13080328/a94f99ec-4a5c-4cd5-8b85-8586e29d601c">
 
 
