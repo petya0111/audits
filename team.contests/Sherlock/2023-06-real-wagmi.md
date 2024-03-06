@@ -100,7 +100,7 @@ while (lpAmount >= user.shares) {
     (uint256 fee0, uint256 fee1) = _calcFees(feesGrow, user);
     lpAmount = _estimateWithdrawalLp(reserve0, reserve1, _totalSupply, fee0, fee1, priceFactor);
 }
-
+ change
 // In the deposit function:
 uint256 priceFactor = 1;
 while (lpAmount >= user.shares) {
