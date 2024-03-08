@@ -30,3 +30,5 @@ Participated in Code4rena and Sherlock contests.
 ## Other
 
 Reach out to me on Twitter [@paspe0111](https://twitter.com/paspe0111)
+
+Telegram [@paspe0111](https://t.me/paspe0111)
